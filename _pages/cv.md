@@ -7,6 +7,9 @@ redirect_from:
   - /resume
 ---
 
+<a href="tanfiona.github.io/files/Fiona Anting Tan - CV.pdf" target="_blank">View my CV here.</a>
+
+<!-- 
 {% include base_path %}
 
 Education
@@ -56,4 +59,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
