@@ -12,9 +12,8 @@ Fiona Anting Tan is a PhD student at the Institute of Data Science, National Uni
 
 View my resume <a href="https://tanfiona.github.io/files/Fiona%20Anting%20Tan%20-%20CV.pdf" target="_blank">here</a>.
 
-<br>
 
-### Education
+<h2>Education</h2>
 <b>PhD in Data Science [2020-Present]</b><br>
 National University of Singapore
 

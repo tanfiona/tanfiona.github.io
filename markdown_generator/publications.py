@@ -97,7 +97,7 @@ for row, item in publications.iterrows():
     ## Markdown description for individual page
     
     if len(str(item.poster_name)) > 5:
-        md += "\n\n<img src='../images/posters/" + item.poster_name + "' width=500>\n"
+        md += "\n\n<img src='../images/posters/" + item.poster_name + "' width=800>\n"
 
     if len(str(item.paper_url)) > 5:
         md += "\n\n<a href='" + item.paper_url + "'>Download paper here</a>\n" 
@@ -105,7 +105,7 @@ for row, item in publications.iterrows():
         md += "\n\n<a href='" + item.github_url + "'>Visit our Github respository here</a>\n" 
     
     if len(str(item.excerpt)) > 5:
-        md += "\n" + html_escape(item.excerpt) + "\n"
+        md += "\n<h2>Abstract</h2>\n" + html_escape(item.excerpt) + "\n"
         
     # md += "\nRecommended citation: " + item.citation
     
