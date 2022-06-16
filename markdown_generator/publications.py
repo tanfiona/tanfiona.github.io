@@ -35,6 +35,7 @@ import pandas as pd
 # In[3]:
 
 publications = pd.read_csv("publications.csv", header=0) #, sep="\t"
+publications = publications.dropna(how='all')
 publications
 
 
@@ -62,6 +63,9 @@ def html_escape(text):
 # In[5]:
 
 import os
+publications['pub_date'] = pd.to_datetime(publications['pub_date'], format='%d/%m/%Y')
+publications['pub_date'] = publications['pub_date'].apply(lambda x: x.strftime('%Y-%m-%d'))
+
 for row, item in publications.iterrows():
     
     md_filename = str(item.pub_date) + "-" + item.url_slug + ".md"
@@ -92,12 +96,14 @@ for row, item in publications.iterrows():
     
     ## Markdown description for individual page
     
-    if len(str(item.poster_url)) > 5:
-        md += "\n\n<img src='" + item.poster_url + "', width='500'>\n"
+    if len(str(item.poster_name)) > 5:
+        md += "\n\n<img src='../images/posters/" + item.poster_name + "' width=500>\n"
 
     if len(str(item.paper_url)) > 5:
         md += "\n\n<a href='" + item.paper_url + "'>Download paper here</a>\n" 
-        
+    if len(str(item.github_url)) > 5:
+        md += "\n\n<a href='" + item.github_url + "'>Visit our Github respository here</a>\n" 
+    
     if len(str(item.excerpt)) > 5:
         md += "\n" + html_escape(item.excerpt) + "\n"
         
