@@ -38,13 +38,13 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
-        {% if post.collection == 'teaching' %}
+        <!-- {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
-        {% endif %}
+        {% endif %} -->
 
     <!-- {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
@@ -53,15 +53,14 @@
     {% endif %} -->
 
     {% if post.citation and post.paperurl and post%}
-      <p>{{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a> 
-        <a href="{{ post.link }}">Read more</a> 
+      <p><span>&#8226;</span> {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a> 
         <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a></p>
     {% elsif post.citation and post.paperurl %}
-      <p>{{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
+      <p><span>&#8226;</span> {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.citation %}
-      <p>{{ post.citation }} </p>
+      <p><span>&#8226;</span> {{ post.citation }} </p>
     {% elsif post.paperurl %}
-      <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
+      <p><span>&#8226;</span> Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
 
   </article>
