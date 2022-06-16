@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<a href="tanfiona.github.io/files/Fiona Anting Tan - CV.pdf" target="_blank">View my CV here.</a>
+<a href="https://tanfiona.github.io/files/Fiona%20Anting%20Tan%20-%20CV.pdf" target="_blank">View my CV here</a>.
 
 <!-- 
 {% include base_path %}
