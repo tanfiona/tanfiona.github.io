@@ -6,7 +6,7 @@ excerpt: 'Despite the importance of understanding causality, corpora addressing 
 date: 2022-06-01
 venue: '13th Language Resources and Evaluation Conference'
 paperurl: 'https://arxiv.org/abs/2204.11714'
-citation: 'Fiona Anting Tan, Ali Hürriyeto˘glu, Tommaso Caselli, Nelleke Oostdijk, Tadashi Nomoto, Hansi Hettiarachchi, Iqra Ameer, Onur Uca, Farhana Ferdousi Liza, and Tiancheng Hu. 2022. The Causal News Corpus: Annotating Causal Relations in Event Sentences from News. In Proceedings of the 13th Language Resources and Evaluation Conference, Marseille, France. European Language Resources Association.'
+citation: 'Fiona Anting Tan, Ali Hürriyetoglu, Tommaso Caselli, Nelleke Oostdijk, Tadashi Nomoto, Hansi Hettiarachchi, Iqra Ameer, Onur Uca, Farhana Ferdousi Liza, and Tiancheng Hu. 2022. The Causal News Corpus: Annotating Causal Relations in Event Sentences from News. In Proceedings of the 13th Language Resources and Evaluation Conference, Marseille, France. European Language Resources Association.'
 ---
 
 <img src='../images/posters/CausalNewsCorpus_LREC_2022_POSTER2.png' width=800>
