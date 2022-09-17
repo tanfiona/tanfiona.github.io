@@ -13,11 +13,11 @@ Fiona Anting Tan is a PhD student at the Institute of Data Science, National Uni
 View my resume <a href="https://tanfiona.github.io/files/Fiona%20Anting%20Tan%20-%20CV.pdf" target="_blank">here</a>.
 
 
-<h2>Latest Works</h2>
-The following projects highlight my current research focus. If you have any feedback or would like to collaborate, please reach out to me!
+<h2>Highlighted Works</h2>
+The following projects reflect my current research focus. If you have any feedback or would like to collaborate, please reach out to me!
 
-* UniCausal <a href="https://tanfiona.github.io/publication/2022-06-01-causal-news-corpus">:link:</a>
-* Causal News Corpus (Tan et. al., 2022) <a href="https://tanfiona.github.io/publication/2022-06-01-causal-news-corpus">:link:</a>
+* UniCausal (Preprint) <a href="https://tanfiona.github.io/publication/2022-08-19-unicausal-repository">🔗</a>
+* Causal News Corpus (Tan et. al., 2022) <a href="https://tanfiona.github.io/publication/2022-06-01-causal-news-corpus">🔗</a>
 
 
 <h2>Education</h2>
