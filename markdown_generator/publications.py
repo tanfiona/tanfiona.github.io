@@ -99,14 +99,13 @@ for row, item in publications.iterrows():
     if len(str(item.poster_name)) > 5:
         md += "\n\n<img src='../images/posters/" + item.poster_name + "' width=800>\n"
 
+    if len(str(item.paper_url)) > 5:
+        md += "\n\n<a href='" + item.paper_url + "'>Download paper here</a>\n"
+    
     if len(str(item.video_url)) > 5:
         # md += "\n\n<video width=800><source src='" + item.video_url + "' type='video/mp4'/></video>\n"
         # md += "\n\n<video src='../files/recordings/" + item.video_url + "' width=800'>\n"
-        md += "\n\n<!DOCTYPE html><html><body><iframe src='" + item.video_url + "'></iframe></body></html>\n"
-
-
-    if len(str(item.paper_url)) > 5:
-        md += "\n\n<a href='" + item.paper_url + "'>Download paper here</a>\n"
+        md += "\n<a href='" + item.video_url + "'>Watch the presentation recording here</a>\n"
     
     if len(str(item.slides_url)) > 5:
         md += "\n<a href='../files/slides/" + item.slides_url + "'>Download presentation slides here</a>\n"

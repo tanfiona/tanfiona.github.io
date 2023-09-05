@@ -9,10 +9,9 @@ paperurl: 'https://aclanthology.org/2022.case-1.28'
 citation: 'Fiona Anting Tan, Hansi Hettiarachchi, Ali Hürriyeto ̆glu, Tommaso Caselli, Onur Uca, Farhana Ferdousi Liza, and Nelleke Oostdijk. 2022. Event Causality Identification with Causal News Corpus - Shared Task 3, CASE 2022. In Proceedings of the 5th Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text (CASE), pages 195–208, Abu Dhabi, United Arab Emirates (Hybrid). Association for Computational Linguistics.'
 ---
 
-<!DOCTYPE html><html><body><iframe src='https://drive.google.com/file/d/17xbAXhhBhyfWZ4xcvs_MI83VW1nCVbBt/view?usp=sharing'></iframe></body></html>
-
-
 <a href='https://aclanthology.org/2022.case-1.28'>Download paper here</a>
+
+<a href='https://drive.google.com/file/d/17xbAXhhBhyfWZ4xcvs_MI83VW1nCVbBt/view?usp=sharing'>Watch the presentation recording here</a>
 
 <a href='../files/slides/SharedTask3_CASE_2022.pdf'>Download presentation slides here</a>
 

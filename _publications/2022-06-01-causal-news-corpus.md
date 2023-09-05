@@ -12,10 +12,9 @@ citation: 'Fiona Anting Tan, Ali Hürriyetoglu, Tommaso Caselli, Nelleke Oostdij
 <img src='../images/posters/CausalNewsCorpus_LREC_2022_POSTER2.png' width=800>
 
 
-<!DOCTYPE html><html><body><iframe src='https://drive.google.com/file/d/1byqXPZ9_HOjL0gB0JGGO8UwPElC5nE0i/view?usp=sharing'></iframe></body></html>
-
-
 <a href='https://aclanthology.org/2022.lrec-1.246/'>Download paper here</a>
+
+<a href='https://drive.google.com/file/d/1byqXPZ9_HOjL0gB0JGGO8UwPElC5nE0i/view?usp=sharing'>Watch the presentation recording here</a>
 
 <a href='https://github.com/tanfiona/CausalNewsCorpus'>Visit our Github respository here</a>
 
