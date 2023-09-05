@@ -14,7 +14,6 @@ citation: 'Fiona Anting Tan, Sujatha Das Gollapalli, and See-Kiong Ng. 2021. NUS
 
 <a href='https://aclanthology.org/2021.case-1.14'>Download paper here</a>
 
-
 <a href='https://github.com/NUS-IDS/EventSentenceCoref'>Visit our Github respository here</a>
 
 <h2>Abstract</h2>
