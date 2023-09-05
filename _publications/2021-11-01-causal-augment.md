@@ -14,6 +14,8 @@ citation: 'Fiona Anting Tan, Devamanyu Hazarika, See-Kiong Ng, Soujanya Poria, a
 
 <a href='https://aclanthology.org/2021.cinlp-1.1'>Download paper here</a>
 
+<a href='../files/slides/CausalAugment_CINLP_2021.pdf'>Download presentation slides here</a>
+
 <a href='https://github.com/tanfiona/CausalAugment'>Visit our Github respository here</a>
 
 <h2>Abstract</h2>

@@ -14,6 +14,10 @@ citation: 'Fiona Anting Tan and See-Kiong Ng. 2021. NUS-IDS at FinCausal 2021: D
 
 <a href='https://aclanthology.org/2021.fnp-1.6'>Download paper here</a>
 
+<a href='https://drive.google.com/file/d/1d_tYftfaFZuE3gTsEbHKB-dCFVDOuGDs/view?usp=sharing'>Watch the presentation recording here</a>
+
+<a href='../files/slides/FinCausal_FNP_2021.pdf'>Download presentation slides here</a>
+
 <a href='https://github.com/tanfiona/causeeffectdetection'>Visit our Github respository here</a>
 
 <h2>Abstract</h2>

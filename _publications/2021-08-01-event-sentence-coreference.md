@@ -14,6 +14,10 @@ citation: 'Fiona Anting Tan, Sujatha Das Gollapalli, and See-Kiong Ng. 2021. NUS
 
 <a href='https://aclanthology.org/2021.case-1.14'>Download paper here</a>
 
+<a href='https://drive.google.com/file/d/1VVNwkgSfuuv6_kxmK-xvEyTHUImmfhxS/view?usp=sharing'>Watch the presentation recording here</a>
+
+<a href='../files/slides/EventSentCoref_CASE_2021.pdf'>Download presentation slides here</a>
+
 <a href='https://github.com/NUS-IDS/EventSentenceCoref'>Visit our Github respository here</a>
 
 <h2>Abstract</h2>
