@@ -17,7 +17,7 @@ View my resume <a href="https://tanfiona.github.io/files/Fiona%20Anting%20Tan%20
 The following projects reflect my current research focus. If you have any feedback or would like to collaborate, please reach out to me!
 
 * Constructing and Interpreting Causal Knowledge Graphs (Tan et. al., 2023) <a href="https://tanfiona.github.io/publication/2023-07-19-panasonic-news-causalkg">🔗</a>
-* UniCausal (Tan et. al., 2023) <a href="https://tanfiona.github.io/publication/2023-09-28-unicausal-repository">🔗</a>
+* UniCausal (Tan et. al., 2023) <a href="https://tanfiona.github.io/publication/2023-08-28-unicausal-repository">🔗</a>
 * Causal News Corpus (Tan et. al., 2022) <a href="https://tanfiona.github.io/publication/2022-06-01-causal-news-corpus">🔗</a>
 
 

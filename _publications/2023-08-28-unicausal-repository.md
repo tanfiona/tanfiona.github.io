@@ -11,7 +11,7 @@ citation: 'Fiona Anting Tan, Xinyu Zuo, and See-Kiong Ng. 2023d. UniCausal: Unif
 
 <a href='https://link.springer.com/chapter/10.1007/978-3-031-39831-5_23'>Download paper here</a>
 
-<a href='../files/recordings/UniCausal_DAWAK_2023.pdf'>Download presentation slides here</a>
+<a href='../files/slides/UniCausal_DAWAK_2023.pdf'>Download presentation slides here</a>
 
 <a href='https://github.com/tanfiona/UniCausal'>Visit our Github respository here</a>
 
