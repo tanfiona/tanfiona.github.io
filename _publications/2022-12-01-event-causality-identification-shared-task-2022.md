@@ -6,7 +6,7 @@ excerpt: 'The Event Causality Identification Shared Task of CASE 2022 involved t
 date: 2022-12-01
 venue: '5th Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text (CASE)'
 paperurl: 'https://aclanthology.org/2022.case-1.28'
-citation: 'Fiona Anting Tan, Hansi Hettiarachchi, Ali Hürriyeto ̆glu, Tommaso Caselli, Onur Uca, Farhana Ferdousi Liza, and Nelleke Oostdijk. 2022. Event Causality Identification with Causal News Corpus - Shared Task 3, CASE 2022. In Proceedings of the 5th Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text (CASE), pages 195–208, Abu Dhabi, United Arab Emirates (Hybrid). Association for Computational Linguistics.'
+citation: 'Fiona Anting Tan, Hansi Hettiarachchi, Ali Hürriyetoglu,  Tommaso Caselli, Onur Uca, Farhana Ferdousi Liza, and Nelleke Oostdijk. 2022. Event Causality Identification with Causal News Corpus - Shared Task 3, CASE 2022. In Proceedings of the 5th Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text (CASE), pages 195–208, Abu Dhabi, United Arab Emirates (Hybrid). Association for Computational Linguistics.'
 ---
 
 <a href='https://aclanthology.org/2022.case-1.28'>Download paper here</a>

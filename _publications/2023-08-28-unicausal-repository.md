@@ -6,7 +6,7 @@ excerpt: 'Current causal text mining datasets vary in objectives, data coverage,
 date: 2023-08-28
 venue: 'Big Data Analytics and Knowledge Discovery (DaWaK)'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-39831-5_23'
-citation: 'Fiona Anting Tan, Xinyu Zuo, and See-Kiong Ng. 2023d. UniCausal: Unified benchmark and repository for causal text mining. In Big Data Analytics and Knowledge Discovery, pages 248–262, Cham. Springer Nature Switzerland.'
+citation: 'Fiona Anting Tan, Xinyu Zuo, and See-Kiong Ng. 2023. UniCausal: Unified benchmark and repository for causal text mining. In Big Data Analytics and Knowledge Discovery, pages 248–262, Cham. Springer Nature Switzerland.'
 ---
 
 <a href='https://link.springer.com/chapter/10.1007/978-3-031-39831-5_23'>Download paper here</a>

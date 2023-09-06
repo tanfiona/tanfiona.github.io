@@ -6,7 +6,7 @@ excerpt: 'Many jobs rely on news to learn about causal events in the past and pr
 date: 2023-07-19
 venue: 'AAAI Summer Symposium on AI for FinTech'
 paperurl: 'https://arxiv.org/abs/2305.09359'
-citation: 'Fiona Anting Tan, Debdeep Paul, Sahim Yamaura, Miura Koji, and See-Kiong Ng. 2023c. Constructing and interpreting causal knowledge graphs from news. In Proceedings of the AAAI Summer Symposium on AI for FinTech. Singapore, Singapore.'
+citation: 'Fiona Anting Tan, Debdeep Paul, Sahim Yamaura, Miura Koji, and See-Kiong Ng. 2023. Constructing and interpreting causal knowledge graphs from news. In Proceedings of the AAAI Summer Symposium on AI for FinTech. Singapore, Singapore.'
 ---
 
 <a href='https://arxiv.org/abs/2305.09359'>Download paper here</a>
