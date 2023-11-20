@@ -20,3 +20,10 @@ citation: 'Fiona Anting Tan, Ali Hürriyetoglu, Tommaso Caselli, Nelleke Oostdij
 
 <h2>Abstract</h2>
 Despite the importance of understanding causality, corpora addressing causal relations are limited. There is a discrepancy between existing annotation guidelines of event causality and conventional causality corpora that focus more on linguistics. Many guidelines restrict themselves to include only explicit relations or clause-based arguments. Therefore, we propose an annotation schema for event causality that addresses these concerns. We annotated 3,559 event sentences from protest event news with labels on whether it contains causal relations or not. Our corpus is known as the Causal News Corpus (CNC). A neural network built upon a state-of-the-art pre-trained language model performed well with 81.20% F1 score on test set, and 83.46% in 5-folds cross-validation. CNC is transferable across two external corpora: CausalTimeBank (CTB) and Penn Discourse Treebank (PDTB). Leveraging each of these external datasets for training, we achieved up to approximately 64% F1 on the CNC test set without additional fine-tuning. CNC also served as an effective training and pre-training dataset for the two external corpora. Lastly, we demonstrate the difficulty of our task to the layman in a crowd-sourced annotation exercise. Our annotated corpus is publicly available, providing a valuable resource for causal text mining researchers.
+
+<h2>Event Photos</h2>
+
+<img src='../images/events/CausalNewsCorpus_LREC_2022_P1.jpg' width=800>
+
+
+<img src='../images/events/CausalNewsCorpus_LREC_2022_P2.jpg' width=800>

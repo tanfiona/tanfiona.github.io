@@ -115,7 +115,16 @@ for row, item in publications.iterrows():
     
     if len(str(item.excerpt)) > 5:
         md += "\n<h2>Abstract</h2>\n" + html_escape(item.excerpt) + "\n"
-        
+
+    if len(str(item.event_photo_1)) > 5:
+        md += "\n<h2>Event Photos</h2>\n" + "\n<img src='../images/events/" + item.event_photo_1 + "' width=800>\n"
+
+    if len(str(item.event_photo_2)) > 5:
+        md += "\n\n<img src='../images/events/" + item.event_photo_2 + "' width=800>\n"
+
+    if len(str(item.event_photo_3)) > 5:
+        md += "\n\n<img src='../images/events/" + item.event_photo_3 + "' width=800>\n"
+
     # md += "\nRecommended citation: " + item.citation
     
     md_filename = os.path.basename(md_filename)

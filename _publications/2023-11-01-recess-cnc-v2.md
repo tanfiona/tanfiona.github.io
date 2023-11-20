@@ -11,6 +11,10 @@ citation: 'Fiona Anting Tan, Hansi Hettiarachchi, Ali Hürriyetoglu, Nelleke Oos
 
 <a href='[forthcoming]'>Download paper here</a>
 
+<a href='https://drive.google.com/file/d/18z6H4G9X0x323lY5GgEkAq_oTnGmh7Z3/view?usp=drive_link'>Watch the presentation recording here</a>
+
+<a href='../files/slides/RECESS_IJCNLP-AACL_2023'>Download presentation slides here</a>
+
 <a href='https://github.com/tanfiona/CausalNewsCorpus'>Visit our Github respository here</a>
 
 <h2>Abstract</h2>
