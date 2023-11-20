@@ -16,10 +16,9 @@ View my resume <a href="https://tanfiona.github.io/files/Fiona%20Anting%20Tan%20
 <h2>Highlighted Works</h2>
 The following projects reflect my current research focus. If you have any feedback or would like to collaborate, please reach out to me!
 
-* Constructing and Interpreting Causal Knowledge Graphs (Tan et. al., 2023) <a href="https://tanfiona.github.io/publication/2023-07-19-panasonic-news-causalkg">🔗</a>
+* Identifying confounders from causal knowledge graphs (Tan et. al., 2023) <a href="https://tanfiona.github.io/publication/2023-11-01-econarc-short">🔗</a>
+* RECESS (Tan et. al., 2023) <a href="https://tanfiona.github.io/publication/2023-11-01-recess-cnc-v2">🔗</a> / Causal News Corpus (Tan et. al., 2022) <a href="https://tanfiona.github.io/publication/2022-06-01-causal-news-corpus">🔗</a>
 * UniCausal (Tan et. al., 2023) <a href="https://tanfiona.github.io/publication/2023-08-28-unicausal-repository">🔗</a>
-* Causal News Corpus (Tan et. al., 2022) <a href="https://tanfiona.github.io/publication/2022-06-01-causal-news-corpus">🔗</a>
-
 
 <h2>Education</h2>
 <b>PhD in Data Science [2020-Present]</b><br>

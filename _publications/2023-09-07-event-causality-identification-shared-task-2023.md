@@ -12,4 +12,6 @@ citation: 'Fiona Anting Tan, Hansi Hettiarachchi, Ali Hürriyetoglu, Nelleke Oos
 
 <a href='https://drive.google.com/file/d/1JZb5ozh9ETp9RMMT_7vDDnxfj_h9HbZ-/view?usp=sharing'>Watch the presentation recording here</a>
 
+<a href='../files/slides/SharedTask3_CASE_2023.pdf'>Download presentation slides here</a>
+
 <a href='https://github.com/tanfiona/CausalNewsCorpus'>Visit our Github respository here</a>
