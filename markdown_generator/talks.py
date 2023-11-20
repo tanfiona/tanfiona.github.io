@@ -96,16 +96,16 @@ for row, item in talks.iterrows():
             md += "\n[More information here (URL)](" + item.talk_url + ")\n" 
 
     if len(str(item.pdf_link)) > 5:
-        md += "\n<a href='../files/features/" + item.pdf_link + "'>More information here (PDF)</a>\n"
+        md += "\n<a href='https://tanfiona.github.io/files/features/" + item.pdf_link + "'>More information here (PDF)</a>\n"
 
     if len(str(item.event_photo_1)) > 5:
-        md += "\n\n<img src='../images/events/" + item.event_photo_1 + "' width=800>\n"
+        md += "\n\n<img src='https://tanfiona.github.io/images/events/" + item.event_photo_1 + "' width=800>\n"
 
     if len(str(item.event_photo_2)) > 5:
-        md += "\n\n<img src='../images/events/" + item.event_photo_2 + "' width=800>\n"
+        md += "\n\n<img src='https://tanfiona.github.io/images/events/" + item.event_photo_2 + "' width=800>\n"
 
     if len(str(item.event_photo_3)) > 5:
-        md += "\n\n<img src='../images/events/" + item.event_photo_3 + "' width=800>\n"
+        md += "\n\n<img src='https://tanfiona.github.io/images/events/" + item.event_photo_3 + "' width=800>\n"
 
     if len(str(item.description)) > 3:
         md += "\n" + html_escape(item.description) + "\n"

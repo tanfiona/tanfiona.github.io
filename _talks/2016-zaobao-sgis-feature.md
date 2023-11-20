@@ -10,6 +10,6 @@ location: "Singapore, Singapore"
 
 [More information here (URL)](https://www.zaobao.com.sg/news/singapore/story20160804-649727)
 
-<a href='../files/features/2016_ZaoBao_Feature.pdf'>More information here (PDF)</a>
+<a href='https://tanfiona.github.io/files/features/2016_ZaoBao_Feature.pdf'>More information here (PDF)</a>
 
 I was interviewed by the Singapore Chinese News Paper (联合早报) about my scholarship and career.

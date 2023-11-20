@@ -10,6 +10,6 @@ location: "Singapore, Singapore"
 
 [More information here (URL)](https://nusgs.nus.edu.sg/student-profile-fiona-anting-tan/)
 
-<a href='../files/features/2021_IDS_QnA_Feature.pdf'>More information here (PDF)</a>
+<a href='https://tanfiona.github.io/files/features/2021_IDS_QnA_Feature.pdf'>More information here (PDF)</a>
 
 I was featured on the Institute of Data Science website, discussing about my graduate experience.
