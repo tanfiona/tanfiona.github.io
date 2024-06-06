@@ -1,10 +1,10 @@
 ---
-title: "Hyundai Vision Conference [Smart Factory Session]"
+title: "Presentation at the Hyundai Vision Conference [Smart Factory Session]"
 collection: talks
 type: "Talk"
-permalink: /talks/7/8/2023-hyundai-vision-conference-poster
+permalink: /talks/2023-08-07-hyundai-vision-conference-poster
 venue: "Hyundai Vision Conference"
-date: 7/8/2023
+date: 2023-08-07
 location: "Seoul, Korea"
 ---
 

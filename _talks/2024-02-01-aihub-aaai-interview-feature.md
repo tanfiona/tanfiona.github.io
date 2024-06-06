@@ -2,9 +2,9 @@
 title: "Interview with Fiona Anting Tan: Researching causal relations in text"
 collection: talks
 type: "Feature"
-permalink: /talks/1/2/2024-aihub-aaai-interview-feature
+permalink: /talks/2024-02-01-aihub-aaai-interview-feature
 venue: "AIHub Interview for AAAI/SIGAI Doctoral Consortium "
-date: 1/2/2024
+date: 2024-02-01
 location: "Vancouver, Canada"
 ---
 

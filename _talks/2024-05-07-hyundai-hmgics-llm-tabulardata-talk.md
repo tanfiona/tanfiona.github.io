@@ -2,9 +2,9 @@
 title: "Sharing with HMGICS: Large Language Models (LLMs) on Tabular Data - A Survey"
 collection: talks
 type: "Talk"
-permalink: /talks/7/5/2024-hyundai-hmgics-llm-tabulardata-talk
+permalink: /talks/2024-05-07-hyundai-hmgics-llm-tabulardata-talk
 venue: "Hyundai Motor Group Innovation Centre Singapore (HMGICS)"
-date: 7/5/2024
+date: 2024-05-07
 location: "Singapore, Singapore"
 ---
 
@@ -16,4 +16,4 @@ location: "Singapore, Singapore"
 
 <img src='https://tanfiona.github.io/images/events/2024_Hyundai_Sharing_Talk_P2.jpg' width=800>
 
-I shared an overview of my recent survey paper &quot;Large Language Models(LLMs) on Tabular Data: Prediction, Generation, and Understanding - A Survey&quot; at the Hyundai Motor Group Innovation Centre Singapore (HMGICS).
+I invited to share an overview of my recent survey paper &quot;Large Language Models(LLMs) on Tabular Data: Prediction, Generation, and Understanding - A Survey&quot; at the Hyundai Motor Group Innovation Centre Singapore (HMGICS).

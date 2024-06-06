@@ -2,9 +2,9 @@
 title: "Fairness in NLP -- Reading Group"
 collection: talks
 type: "Talk"
-permalink: /talks/30/10/2020-fairness-in-nlp-wing-talk
+permalink: /talks/2020-10-30-fairness-in-nlp-wing-talk
 venue: "WING Reading Group"
-date: 30/10/2020
+date: 2020-10-30
 location: "Singapore, Singapore"
 ---
 

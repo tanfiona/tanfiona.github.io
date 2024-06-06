@@ -2,9 +2,9 @@
 title: "Women in Science at Amazon - A Conversation with our Amazonians"
 collection: talks
 type: "Talk"
-permalink: /talks/9/11/2023-amazon-women-in-science-panel
+permalink: /talks/2023-11-09-amazon-women-in-science-panel
 venue: "Amazon Programs"
-date: 9/11/2023
+date: 2023-11-09
 location: "Seattle, Washington"
 ---
 
