@@ -6,7 +6,7 @@ excerpt: 'Causality expresses the relation between two arguments, one of which r
 date: 2024-03-24
 venue: 'AAAI Conference on Artificial Intelligence, 38(21)'
 paperurl: 'https://ojs.aaai.org/index.php/AAAI/article/view/30413'
-citation: 'Tan, F. A. (2024). To Know the Causes of Things: Text Mining for Causal Relations. Proceedings of the AAAI Conference on Artificial Intelligence, 38(21), 23425-23426. https://doi.org/10.1609/aaai.v38i21.30413'
+citation: 'Fiona Anting Tan. 2024. To know the causes of things: Text mining for causal relations. In Thirty-Eighth AAAI Conference on Artificial Intelligence, AAAI 2024, Thirty-Sixth Conference on Innovative Applications of Artificial Intelligence, IAAI 2024, Fourteenth Symposium on Educational Advances in Artificial Intelligence, EAAI 2014, February 20-27, 2024, Vancouver, Canada, pages 23425–23426. AAAI Press.'
 ---
 
 <img src='../images/posters/ThesisAbstract_AAAI-DC_2024_Poster.png' width=800>
